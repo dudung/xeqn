@@ -11,7 +11,7 @@ $ git clone https://github.com/dudung/xeqn
 
 
 ## content
-+ [Table of content in alphabetical index](src/toc.md) (2)
++ [Table of content in alphabetical index](src/toc.md) (3)
 
 
 ## license
