@@ -5,6 +5,7 @@ tabel of content in alphabetical index
 ## a
 + [acceleration due to gravity](0001.md)
 + [area of regular 2d shapes](0000.md)
++ [area of annulus](0006.md)
 
 
 ## c
@@ -12,7 +13,7 @@ tabel of content in alphabetical index
 
 
 ## h
-+ [simple harmonic motion](0004.md)
++ [solution of simple harmonic motion](0004.md)
 
 
 ## i
