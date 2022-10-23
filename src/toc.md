@@ -32,4 +32,5 @@ tabel of content in alphabetical index
 
 
 ## w
-+ [wave equation](0011.md)
++ [wave equation: separation of variables](0011.md)
++ [wave equation: solution substitution](0012.md)
