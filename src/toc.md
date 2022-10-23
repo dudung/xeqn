@@ -29,3 +29,7 @@ tabel of content in alphabetical index
 ## t
 + [trigonometric identities: angle addition and substraction theorems](0008.md)
 + [trigonometric identities: product-sum identities](0009.md)
+
+
+## w
++ [wave equation](0011.md)
