@@ -15,4 +15,4 @@ $ git clone https://github.com/dudung/xeqn
 
 
 ## license
-+ [MIT License](License)
++ [MIT License](LICENSE)
