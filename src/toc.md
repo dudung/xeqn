@@ -11,5 +11,13 @@ tabel of content in alphabetical index
 + [center of mass for system of particles](0002.md)
 
 
+## h
++ [simple harmonic motion](0004.md)
+
+
 ## i
 + [linear interpolation between two points](0003.md)
+
+
+## p
++ [Pythagorean theorem](0005.md)
