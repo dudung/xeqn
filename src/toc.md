@@ -9,3 +9,7 @@ tabel of content in alphabetical index
 
 ## c
 + [center of mass for system of particles](0002.md)
+
+
+## i
++ [linear interpolation between two points](0003.md)
