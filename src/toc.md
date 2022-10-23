@@ -23,3 +23,7 @@ tabel of content in alphabetical index
 ## p
 + [polar and Cartesian coordinates relations](0007.md)
 + [Pythagorean theorem](0005.md)
+
+
+## t
++ [trigonometric identities: angle addition and substraction theorems](0008.md)
