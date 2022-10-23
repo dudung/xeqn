@@ -23,7 +23,9 @@ tabel of content in alphabetical index
 ## p
 + [polar and Cartesian coordinates relations](0007.md)
 + [Pythagorean theorem](0005.md)
++ [physical pendulum: beam and cylinder](0010.md)
 
 
 ## t
 + [trigonometric identities: angle addition and substraction theorems](0008.md)
++ [trigonometric identities: product-sum identities](0009.md)
