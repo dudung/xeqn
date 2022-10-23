@@ -21,4 +21,5 @@ tabel of content in alphabetical index
 
 
 ## p
++ [polar and Cartesian coordinates relations](0007.md)
 + [Pythagorean theorem](0005.md)
