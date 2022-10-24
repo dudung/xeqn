@@ -12,6 +12,11 @@ tabel of content in alphabetical index
 + [center of mass for system of particles](0002.md)
 
 
+## d
++ [Doppler effect: moving source](0016.md)
++ [Doppler effect: moving observer](0017.md)
+
+
 ## h
 + [solution of simple harmonic motion](0004.md)
 
