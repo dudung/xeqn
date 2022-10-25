@@ -18,6 +18,10 @@ tabel of content in alphabetical index
 + [Doppler effect: moving source](0016.md)
 
 
+## f
++ [finite difference method: parabolic trajectory (Dirichlet)](0019.md)
+
+
 ## h
 + [solution of simple harmonic motion](0004.md)
 
@@ -27,6 +31,7 @@ tabel of content in alphabetical index
 
 
 ## p
++ [ODE: parabolic trajectory](0020.md)
 + [polar and Cartesian coordinates relations](0007.md)
 + [Pythagorean theorem](0005.md)
 + [physical pendulum: beam and cylinder](0010.md)
