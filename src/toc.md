@@ -20,6 +20,7 @@ tabel of content in alphabetical index
 
 ## f
 + [finite difference method: free fall (Dirichlet)](0019.md)
++ [finite difference method: free fall (Cauchy)](0021.md)
 
 
 ## h
